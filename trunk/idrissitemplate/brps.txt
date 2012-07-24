@@ -43,7 +43,7 @@ function BRPS_get() {
   for (var i=0; i < links.length; i++) {
     m = /.*\/feeds\/(\d+)\/comments\/default/.exec($(links[i]).attr('href'))
     if (m != null)
-      if (m.length == 2) {
+      if (m.length == 3) {
         post_id = m[1];
         break;
         }
