@@ -9,7 +9,7 @@ function removeHtmlTag(strx,chop){
 		} 
 		strx =  s.join(""); 
 	}
-	chop = (chop < strx.length-1) ? chop : strx.length-2; 
+	chop = (chop < strx.length-1) ? chop : strx.length-3; 
 	while(strx.charAt(chop-1)!=' ' && strx.indexOf(' ',chop)!=-1) chop++; 
 	strx = strx.substring(0,chop-1); 
 	return strx+'...'; 
