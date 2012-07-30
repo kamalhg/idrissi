@@ -356,7 +356,7 @@ button.red:active .label,
 .ddm span.icon, 
 button span.icon, 
 .button span.icon {
-	background-image: url(../images/google+-ui-sprite-gray.png);
+	background-image: url(http://4.bp.blogspot.com/-bEor4QtIAko/UBbbo0zwaxI/AAAAAAAACfM/uARulm_2gVE/google%2B-ui-sprite-gray.png);
 	
 	display: inline-block;
 	margin: 0 7px;
@@ -380,7 +380,7 @@ button span.icon,
 .ddm:hover span.icon, 
 button:hover span.icon, 
 .button:hover span.icon {
-	background-image: url(../images/google+-ui-sprite-colour.png);
+	background-image: url(http://4.bp.blogspot.com/-0O7iOQGIWzU/UBbboWRzsfI/AAAAAAAACfI/h78PMWQ9yrA/google%2B-ui-sprite-colour.png);
 }
 
 
@@ -630,7 +630,7 @@ div.dropdown span.toggle {
 	
 	float: right;
 	
-	background: url(../images/toggle.png) top right no-repeat;
+	background: url(http://4.bp.blogspot.com/-JpdkcgdD9AM/UBbbo6dNiOI/AAAAAAAACfQ/S0EAGE2jqlY/toggle.png) top right no-repeat;
 	border-left: 1px solid #D9D9D9;
 	
 	-webkit-transition: border-color .20s;
@@ -639,7 +639,7 @@ div.dropdown span.toggle {
 	transition: border-color .20s;
 }
 div.dropdown span.toggle.active {
-	background: url(../images/toggle.png) bottom right no-repeat;
+	background: url(http://4.bp.blogspot.com/-JpdkcgdD9AM/UBbbo6dNiOI/AAAAAAAACfQ/S0EAGE2jqlY/toggle.png) bottom right no-repeat;
 }
 div.dropdown 
 button:hover span.toggle, 
